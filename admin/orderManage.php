@@ -6,8 +6,8 @@
                     <h2>Order <b>Details</b></h2>
                 </div>
                 <div class="col-sm-8">						
-                    <a href="" class="btn btn-primary"><i class="material-icons">&#xE863;</i> <span>Refresh List</span></a>
-                    <a href="#" onclick="window.print()" class="btn btn-info"><i class="material-icons">&#xE24D;</i> <span>Print</span></a>
+                    <!-- <a href="" class="btn btn-primary"><i class="material-icons">&#xE863;</i> <span>Refresh List</span></a> -->
+                    <!-- <a href="#" onclick="window.print()" class="btn btn-info"><i class="material-icons">&#xE24D;</i> <span>Print</span></a> -->
                 </div>
             </div>
         </div>
