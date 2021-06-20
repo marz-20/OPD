@@ -45,9 +45,7 @@ echo '<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
           <li class="nav-item">
             <a class="nav-link" href="about.php">About Us</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="contact.php">Contact Us</a>
-          </li>
+          
           
         </ul>
         <form method="get" action="/OnlinePizzaDelivery/search.php" class="form-inline my-2 my-lg-0 mx-3">
@@ -119,4 +117,8 @@ echo '<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             </div>';
     }
 ?>
+<!-- Contact us page copy paste code in line no 48
+<li class="nav-item">
+            <a class="nav-link" href="contact.php">Contact Us</a>
+          </li> -->
 
